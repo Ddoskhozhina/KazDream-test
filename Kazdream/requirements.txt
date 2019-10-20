@@ -1,0 +1,4 @@
+Libraries:
+- BeautifulSoup
+- Requests
+- csv
